@@ -1,4 +1,4 @@
-# VHDL-Digital-Locker
+# VHDL Digital Locker
 
 ## Overview
 This project is a simple **digital locker system** implemented in **VHDL**.  
